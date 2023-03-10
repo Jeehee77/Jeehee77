@@ -1,4 +1,10 @@
-### Hi there 👋
+<div align="center">
+
+### Hi there 👋 
+
+<br> <br>
+🔮 I want to be a front-ent developer.  <br>
+🌱 I’m currently learning React, React Native. <br> <br> <br>
 
 <!--
 **Jeehee77/Jeehee77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeehee77&show_icons=true&theme=buefy)
+
+<br> <br>
+### 🌟 Skills
+<br />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <br>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=StyledComponents&logoColor=white"/>
+</div>
+
