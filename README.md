@@ -3,8 +3,7 @@
 ### Hi there 👋 
 
 <br> <br>
-🔮 I want to be a front-ent developer.  <br>
-🌱 I’m currently learning React, React Native. <br> <br> <br>
+🌱 I’m currently learning React, Next.js. <br> <br> <br>
 
 <!--
 **Jeehee77/Jeehee77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
